@@ -1,1 +1,0 @@
-# CLIP-Zero-Shot-Classification
